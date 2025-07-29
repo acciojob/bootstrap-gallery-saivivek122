@@ -3,7 +3,7 @@ let images=document.querySelectorAll(".card-img-top");
 
 let carousel=document.querySelector(".carousel.slide")
 
-let cardImages=document.querySelector(".card-group");
+let cardImages=document.querySelector(".card-group,.row");
 
 let carouselItem=document.querySelectorAll(".carousel-item");
 
