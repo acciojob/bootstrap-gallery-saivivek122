@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+.lightbox {
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+}
+.container{
+	width:500px;
+	height:100px;
+}
